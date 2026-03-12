@@ -19,5 +19,12 @@ Aplikasi mobile berbasis Artificial Intelligence untuk mendeteksi gangguan disle
 100 data teks dan audio.
 
 ## Akurasi Model
-Accuracy: 80%
-Loss: xx
+Training Accuracy : 93%  
+Validation Accuracy : 80%  
+Training Loss : decreased from 24 to 1  
+Validation Loss : stabilized between 3 – 7
+
+## Pengembang
+Muhamad Fathur Rahman  
+Teknik Informatika  
+Universitas Negeri Padang
